@@ -103,4 +103,3 @@ All donations go toward infrastructure, development and research
 
 
 ![telemt_scheme](docs/assets/telemt.png)
-
